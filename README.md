@@ -1,6 +1,7 @@
 # Work Day Scheduler Starter Code
 
-
+Deployed site:
+https://jonzyuen.github.io/05_Super_Disco/
 
 User Story
 AS AN employee with a busy schedule
